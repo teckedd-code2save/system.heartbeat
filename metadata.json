@@ -1,0 +1,5 @@
+{
+  "name": "System.Heartbeat",
+  "description": "A living, biological visualization of your system health. Translates CPU, memory, and thermal metrics into an expressive digital organism.",
+  "requestFramePermissions": []
+}
